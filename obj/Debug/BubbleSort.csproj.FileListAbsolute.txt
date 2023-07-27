@@ -1,0 +1,8 @@
+D:\Simplilearn\Assissted Projects\Section-8\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe.config
+D:\Simplilearn\Assissted Projects\Section-8\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe
+D:\Simplilearn\Assissted Projects\Section-8\BubbleSort\BubbleSort\bin\Debug\BubbleSort.pdb
+D:\Simplilearn\Assissted Projects\Section-8\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csproj.AssemblyReference.cache
+D:\Simplilearn\Assissted Projects\Section-8\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csproj.SuggestedBindingRedirects.cache
+D:\Simplilearn\Assissted Projects\Section-8\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+D:\Simplilearn\Assissted Projects\Section-8\BubbleSort\BubbleSort\obj\Debug\BubbleSort.exe
+D:\Simplilearn\Assissted Projects\Section-8\BubbleSort\BubbleSort\obj\Debug\BubbleSort.pdb
